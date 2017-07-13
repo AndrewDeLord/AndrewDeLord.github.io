@@ -1,0 +1,23 @@
+body {
+     background: #ffff70;
+     font-family: 'Indie Flower', cursive;
+}
+
+
+
+#title {
+   background:white;
+   width:700px;
+   padding-bottom:10px ;
+}
+
+#main {
+   background: yellow;
+   width:700px;
+  
+}
+
+*{
+ padding: 5px;
+}
+
